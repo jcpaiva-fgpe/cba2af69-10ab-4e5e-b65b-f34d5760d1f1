@@ -1,1 +1,1 @@
-print("I am Ready")
+print("Let's get into the Crypto World!")
