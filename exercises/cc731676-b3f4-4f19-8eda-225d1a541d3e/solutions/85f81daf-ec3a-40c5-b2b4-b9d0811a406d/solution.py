@@ -1,0 +1,1 @@
+def check_temperature_status(current_temp, threshold_temp): if current_temp > threshold_temp: return "Critical" else: return "Normal" print(check_temperature_status(35.0, 33.0))
