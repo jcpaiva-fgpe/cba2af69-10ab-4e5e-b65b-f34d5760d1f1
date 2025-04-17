@@ -1,0 +1,6 @@
+import numpy as np prices = np.array([45100, 45200, 45150, 45400, 45300, 45250])
+reshaped_prices = prices.reshape(2, 3)
+session_averages = np.mean(reshaped_prices, axis=1)
+print("Reshaped prices:")
+print(reshaped_prices)
+print("\nSession averages:", session_averages)
