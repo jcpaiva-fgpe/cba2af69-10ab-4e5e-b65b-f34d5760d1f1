@@ -1,5 +1,0 @@
-import numpy as np prices = np.array([42000, 43500, 43200, 44800, 45100, 44900, 46000])
-print(f"Highest price: {np.max(prices)}")
-print(f"Lowest price: {np.min(prices)}")
-print(f"Average price: {np.mean(prices)}")
-print(f"Days above 44000: {prices < 44000}")
