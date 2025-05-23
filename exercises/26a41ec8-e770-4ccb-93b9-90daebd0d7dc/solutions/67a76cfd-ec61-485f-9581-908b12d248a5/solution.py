@@ -1,1 +1,0 @@
-1. To find average daily increase: - Total increase = $45,800 - $45,000 = $800 - Number of intervals = 4 - Average daily increase = $800 / 4 = $200 2. Day 6 prediction: - Day 5 price + average increase - $45,800 + $200 = $46,000 3. Limitations: - Past performance doesn't guarantee future results - Small sample size - Assumes linear trend - Ignores market factors and volatility
