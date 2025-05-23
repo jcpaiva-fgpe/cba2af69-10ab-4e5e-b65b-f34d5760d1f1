@@ -1,6 +1,0 @@
-import numpy as np co2_levels = np.array([412, 415, 417, 411, 414, 419])
-reshaped_data = co2_levels.reshape(2, 3)
-region_averages = np.mean(reshaped_data, axis=1)
-print("CO2 Readings by Region:")
-print(reshaped_data)
-print("\nRegional Averages:", region_averages)
