@@ -1,0 +1,5 @@
+import numpy as np temperatures = np.array([25.2, 25.8, 26.1, 26.3, 26.8, 27.1, 27.3])
+print(f"Highest temperature: {np.max(temperatures)}°C")
+print(f"Lowest temperature: {np.min(temperatures)}°C")
+print(f"Average temperature: {np.mean(temperatures)}°C")
+print(f"Days above 26.5°C: {temperatures > 26.5}")
